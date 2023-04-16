@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">mobile_app_movie</string>
+    <string name="image">image</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="icon">icon</string>
+    <string name="starring">Starring</string>
+    <string name="tom_holland_mark_wahlberg_antonio_banderas">Tom Holland Mark Wahlberg Antonio Banderas</string>
+    <string name="running_time">Running Time</string>
+    <string name="_1hr_56mins">1hr 56mins</string>
+    <string name="seat_icon">Seat Icon</string>
+    <string name="_5">5</string>
+    <string name="seats_remaining">Seats Remaining</string>
+</resources>
